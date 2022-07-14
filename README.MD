@@ -4,7 +4,7 @@ Hi 👋 My name is Henok Lamiso
 Data Analyst | Front-end Web Developer | DSA | Computer Science student at UofL, Lethbridge, AB Canada
 ------------------------------------------------------------------------------------------------------
 
-* 🌍  I'm based in Calgary, AB and Lethbridge,AB Canada :canada:
+* 🌍  I'm based in Calgary, AB and Lethbridge,AB Canada
 * 🖥️  See my portfolio at [My Personal Website](http://www.henoktamirat.com)
 * ✉️  You can contact me at [henok.lamiso@uleth.ca](mailto:henok.lamiso@uleth.ca)
 * 🧠  I'm learning Data Analytics from Google and Cybersecurity Analytics from online resourses
@@ -22,6 +22,7 @@ Data Analyst | Front-end Web Developer | DSA | Computer Science student at UofL,
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
@@ -44,4 +45,4 @@ Data Analyst | Front-end Web Developer | DSA | Computer Science student at UofL,
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/hennyepl/Red-Black-Tree-Algorithm-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hennyepl&repo=Red-Black-Tree-Algorithm-&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/hennyepl/Red-Black-Tree-Algorithm-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hennyepl&repo=Red-Black-Tree-Algorithm-&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/hennyepl/PandaLab " align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hennyepl&repo=PandaLab &title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
