@@ -1,7 +1,7 @@
 Hi 👋 My name is Henok Lamiso
 =============================
 
-Data Analyst | Front-end Web Developer | DSA | Computer Science student at UofL, Lethbridge, AB Canada
+IT Analyst | Front-end Web Developer | DSA | Computer Science student at UofL, Lethbridge, AB Canada
 ------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Calgary, AB and Lethbridge,AB Canada
